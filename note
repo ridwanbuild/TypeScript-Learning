@@ -1,0 +1,32 @@
+1. Primitive Data Types in TS
+    number
+    string
+    boolean	
+    null
+    undefined
+
+2. Non-Primitive Data Types in TS
+    object
+    array
+    tuple
+    enum
+
+3. Utility/Special Types in TS
+    any
+    void
+    never
+    unknown
+
+4. Other Types and Concepts
+    Literal
+    Optional
+    Function
+    Union
+    Intersection
+    Alias
+    Generic
+    Rest & Spread
+    Ternary
+    Nullish Coalescing
+    Optional Chaining
+    Nullable
